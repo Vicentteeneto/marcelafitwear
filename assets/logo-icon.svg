@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 50" role="img" aria-label="Marcela Costa Fitwear">
+  <!-- Redesenho vetorial do símbolo (barras + M) do logo oficial, para uso
+       em tamanhos pequenos (favicon, ícone de app, avatar) onde o
+       lockup completo perde nitidez. Cor via currentColor. -->
+  <g fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="7"   y1="14" x2="7"   y2="36" />
+    <line x1="18"  y1="8"  x2="18"  y2="42" />
+    <polyline points="31,44 31,6 66,30 101,6 101,44" />
+    <line x1="114" y1="8"  x2="114" y2="42" />
+    <line x1="125" y1="14" x2="125" y2="36" />
+  </g>
+</svg>
